@@ -1,0 +1,6 @@
+C:\Users\maksigan\Desktop\код\snake\snake\bin\Debug\snake.exe.config
+C:\Users\maksigan\Desktop\код\snake\snake\obj\Debug\snake.csprojResolveAssemblyReference.cache
+C:\Users\maksigan\Desktop\код\snake\snake\bin\Debug\snake.exe
+C:\Users\maksigan\Desktop\код\snake\snake\bin\Debug\snake.pdb
+C:\Users\maksigan\Desktop\код\snake\snake\obj\Debug\snake.exe
+C:\Users\maksigan\Desktop\код\snake\snake\obj\Debug\snake.pdb
